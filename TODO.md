@@ -1,0 +1,6 @@
+- [ ] Ubah hero section background dari gradient ke solid gray-100
+- [ ] Ubah hero text dari gradient ke solid text-gray-900
+- [ ] Hapus glow effects dari semua cards
+- [ ] Ubah icon backgrounds di cards ke solid bg-gray-500
+- [ ] Hapus semua animasi classes
+- [ ] Ubah button styles ke solid tanpa gradient
